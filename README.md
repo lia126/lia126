@@ -1,7 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Kalia!
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Python labs</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+
+<h2> 🤳 Connect with me:</h2>
+[Email]: kaliaperdomo@gmail.com
 
 <!--
-**lia126/lia126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
